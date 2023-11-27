@@ -1,31 +1,62 @@
-Verfügbarkeit meiner Daten:
+ 1. Welche Daten sind bei einem Hardwareausfall von Laptop und Handy nicht verfügbar?**
+    - Fotos, Nachrichten (wie Signal/WhatsApp), Arbeits- und Firmendokumente.
+ 2. Wie kann ich auf welche Daten wieder zugreifen?**
+    - Fotos können in der iCloud gesichert sein, Nachrichten könnten in iCloud-Backups enthalten sein. Arbeitsdokumente können auf iCloud Drive oder anderen Cloud-Services gespeichert sein.
+ 3. Kann ich ohne Handy auf einem neuen Rechner wieder zugreifen?**
+    - Bei aktivierter 2-Faktor-Authentifizierung können Sie sich auf einem neuen Gerät anmelden, nachdem Sie Ihren Identitätsnachweis über ein anderes vertrauenswürdiges Gerät oder Ihre Apple-ID durchgeführt haben.
+ 4. Wo finde ich meine Passwörter?**
+    - Passwörter können in den iCloud-Schlüsselbund gespeichert sein, der mit Ihrem Apple-Konto verknüpft ist.
+ 5. Welchen Zugriff hat ein "Finder" meiner Geräte? Welchen Schaden kann der "Finder" mit den Daten anrichten? Kann ich die Daten fernlöschen?**
+    - Ein Finder hat begrenzten Zugriff auf nicht verschlüsselte Daten. Um Daten zu schützen, können Sie das Gerät aus der Ferne sperren oder löschen, wenn "Mein iPhone suchen" aktiviert ist.
+ 6. Kann ich die Geräte orten?**
+    - Ja, über die Funktion "Mein iPhone suchen" können Sie Ihre Geräte orten.
+ 7. Gegen welche Gefahren sind meine Backups gesichert?**
+    - iCloud-Backups sind gegen Geräteverlust und einige Schäden (nicht jedoch gegen alle) gesichert. Es wird empfohlen, regelmäßig Backups zu erstellen.
+ 8. Wie schätzen Sie Ihren Zeitaufwand ein?**
+    - Der Zeitaufwand hängt von der Art des Problems und den vorhandenen Sicherheitsmaßnahmen ab. Die Wiederherstellung von Daten kann einige Zeit in Anspruch nehmen.
+ 9. Was sind die Konsequenzen aus diesem Experiment?**
+    - Die Konsequenzen könnten sein, dass Sie Ihre Sicherheitspraktiken überprüfen und verbessern müssen, um Datenverlust zu verhindern.
+10. Wie bewerten Sie diese Übung?**
+    - Die Bewertung hängt von Ihrer persönlichen Erfahrung ab, aber im Allgemeinen kann dies eine wichtige Lektion in Bezug auf Datensicherheit sein.
+11. Sind die Geräte und der entstandene Schaden versichert?**
+    - Das hängt von Ihrer Versicherung ab. Es ist ratsam, dies zu überprüfen und gegebenenfalls eine Elektronikversicherung abzuschließen.
+12. Muss in einem ersten Moment etwas gesperrt werden? ApplePay, Kreditkarten, Zugriff in Gebäude?**
+    - Ja, es wird empfohlen, sofort den Zugriff auf ApplePay, Kreditkarten und den Zugang zu sensiblen Orten zu sperren, falls die Geräte gestohlen wurden.
 
-Meine Fotos, Nachrichten (Signal, WhatsApp), Arbeitsdokumente und persönliche Dokumente könnten verloren gegangen sein. Der Zugriff hängt davon ab, ob ich diese Daten in der Cloud (z. B. Google Drive, iCloud) oder auf externen Speichermedien (wie USB-Sticks oder externen Festplatten) gesichert habe.
-Wiederherstellung meiner Daten:
+```
+1. Welche Daten sind bei einem Hardwareausfall von Laptop und Handy nicht verfügbar?**
+   - Fotos, Nachrichten (wie Signal/WhatsApp), Arbeits- und Firmendokumente.
 
-Cloud-Speicher: Ich kann meine Daten von jedem Gerät aus wiederherstellen, solange ich Zugang zu meinem Account habe.
-Externe Speichermedien: Wenn ich regelmässig Backups auf solche Medien erstelle, kann ich meine Daten leicht wiederherstellen.
-Zugriff ohne mein Smartphone:
+2. Wie kann ich auf welche Daten wieder zugreifen?**
+   - Fotos können in der iCloud gesichert sein, Nachrichten könnten in iCloud-Backups enthalten sein. Arbeitsdokumente können auf iCloud Drive oder anderen Cloud-Services gespeichert sein.
 
-Für die Zwei-Faktor-Authentifizierung (2FA) könnte ich alternative Methoden wie Backup-Codes oder die Verwendung einer anderen Authentifizierungs-App auf einem neuen Gerät benötigen.
-Speicherort meiner Passwörter:
+3. Kann ich ohne Handy auf einem neuen Rechner wieder zugreifen?**
+   - Bei aktivierter 2-Faktor-Authentifizierung können Sie sich auf einem neuen Gerät anmelden, nachdem Sie Ihren Identitätsnachweis über ein anderes vertrauenswürdiges Gerät oder Ihre Apple-ID durchgeführt haben.
 
-Ich sollte meine Passwörter idealerweise in einem Passwort-Manager speichern. Wenn ich diesen auf mehreren Geräten verwende, kann ich von überall darauf zugreifen.
-Zugriff und Schaden durch einen Finder:
+4. Wo finde ich meine Passwörter?**
+   - Passwörter können in den iCloud-Schlüsselbund gespeichert sein, der mit Ihrem Apple-Konto verknüpft ist.
 
-Der Finder meines Geräts könnte auf alle ungeschützten Daten zugreifen. Der Schaden hängt von der Art der Daten und meinen Sicherheitsvorkehrungen ab (z. B. Passwortschutz, Verschlüsselung).
-Fernlöschen und Ortung meiner Geräte:
+5. Welchen Zugriff hat ein "Finder" meiner Geräte? Welchen Schaden kann der "Finder" mit den Daten anrichten? Kann ich die Daten fernlöschen?**
+   - Ein Finder hat begrenzten Zugriff auf nicht verschlüsselte Daten. Um Daten zu schützen, können Sie das Gerät aus der Ferne sperren oder löschen, wenn "Mein iPhone suchen" aktiviert ist.
 
-Ich kann viele Smartphones und Laptops orten oder aus der Ferne löschen (z. B. über „Mein iPhone suchen“ bei Apple-Geräten).
-Sicherheit meiner Backups:
+6. Kann ich die Geräte orten?**
+   - Ja, über die Funktion "Mein iPhone suchen" können Sie Ihre Geräte orten.
 
-Meine Backups sollten gegen verschiedene Gefahren wie Geräteverlust, Naturkatastrophen (Brand, Hochwasser) und Cyberangriffe (wie Trojaner) geschützt sein. Dies kann ich durch regelmässige Backups, Verwendung von Cloud-Diensten und externe Festplatten erreichen.
-Mein Zeitaufwand und Konsequenzen:
+7. Gegen welche Gefahren sind meine Backups gesichert?**
+   - iCloud-Backups sind gegen Geräteverlust und einige Schäden (nicht jedoch gegen alle) gesichert. Es wird empfohlen, regelmäßig Backups zu erstellen.
 
-Der Zeitaufwand für die Wiederherstellung hängt von der Komplexität der Daten und meiner vorhandenen Backup-Strategie ab. Dieses Experiment zeigt mir, wie wichtig regelmässige Backups und ein Plan für den Datenzugriff im Notfall sind.
-Versicherung:
+8. Wie schätzen Sie Ihren Zeitaufwand ein?**
+   - Der Zeitaufwand hängt von der Art des Problems und den vorhandenen Sicherheitsmaßnahmen ab. Die Wiederherstellung von Daten kann einige Zeit in Anspruch nehmen.
 
-Ob meine Geräte und der Schaden versichert sind, hängt von meiner Versicherungspolice ab. Es lohnt sich für mich zu prüfen, ob meine Versicherung solche Fälle abdeckt.
-Sofortige Sperrungen:
+9. Was sind die Konsequenzen aus diesem Experiment?**
+   - Die Konsequenzen könnten sein, dass Sie Ihre Sicherheitspraktiken überprüfen und verbessern müssen, um Datenverlust zu verhindern.
 
-Es könnte notwendig sein, Dienste wie Apple Pay oder Kreditkarten sofort zu sperren, um Missbrauch zu verhindern. Ebenso sollte ich Zugänge zu Gebäuden oder Systemen überprüfen und gegebenenfalls sperren.
+10. Wie bewerten Sie diese Übung?**
+    - Die Bewertung hängt von Ihrer persönlichen Erfahrung ab, aber im Allgemeinen kann dies eine wichtige Lektion in Bezug auf Datensicherheit sein.
+
+11. Sind die Geräte und der entstandene Schaden versichert?**
+    - Das hängt von Ihrer Versicherung ab. Es ist ratsam, dies zu überprüfen und gegebenenfalls eine Elektronikversicherung abzuschließen.
+
+12. Muss in einem ersten Moment etwas gesperrt werden? ApplePay, Kreditkarten, Zugriff in Gebäude?**
+    - Ja, es wird empfohlen, sofort den Zugriff auf ApplePay, Kreditkarten und den Zugang zu sensiblen Orten zu sperren, falls die Geräte gestohlen wurden.
+```
