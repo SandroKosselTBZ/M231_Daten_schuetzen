@@ -1,0 +1,13 @@
+Am 21. September 2016 erlebte die Website KrebsOnSecurity.com einen rekordverdächtigen und ungewöhnlichen DDoS-Angriff (Distributed Denial-of-Service). Trotz der enormen Grösse des Angriffs, 
+der fast doppelt so gross war wie der bisher grösste von Akamai beobachtete Angriff, konnte die Website dank der harten Arbeit der Akamai-Ingenieure online bleiben.
+
+Dieser Angriff begann am Abend des 20. September und erreichte eine Grösse von etwa 620 Gigabit pro Sekunde. Martin McKeay, Akamais Senior Security Advocate erklärte, dass der grösste zuvor beobachtete Angriff bei 363 Gbps lag, 
+aber der Angriff auf KrebsOnSecurity war besonders, da er fast ausschließlich von einem grossen Botnetz gehackter Geräte ausging.
+
+Im Gegensatz zu den häufigen DNS-Reflection-Angriffen, die unkontrollierte DNS-Server ausnutzen, verwendete dieser Angriff keine Verstärkungs- oder Reflexionstechniken (rekursiv). 
+Dies war ungewöhnlich und zeigte, dass die Angreifer über ein Botnetz mit bisher nicht gesehenen Fähigkeiten verfügten.
+
+Die Analyse deutet darauf hin, dass dieses Botnetz möglicherweise Hunderttausende von gehackten "Internet of Things" (IoT) Geräten umfasst, wie Router, IP-Kameras und digitale Videorekorder, 
+die oft mit schwachen oder voreingestellten Passwörtern geschützt sind. Die Malware, die diese Geräte infiziert, ist in verschiedenen Varianten bekannt und verbreitet sich durch das Scannen nach verwundbaren Geräten.
+
+Quelle: https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/ 
