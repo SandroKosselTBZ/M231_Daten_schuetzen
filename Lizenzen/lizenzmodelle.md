@@ -1,19 +1,19 @@
 - Nutzungserlaubnis für ein Produkt
 - Produkt ist nicht Eigentum, Nutzung durch Lizenz gestattet
 
-## 2) Lizenznotwendigkeit
+## 1) Lizenznotwendigkeit
 - Schutz des Urheberrechts
 - Einnahmequelle
 - Zugriffsbedingungen definierbar
 
-## 3) Lizenzprodukte außer Software
+## 2) Lizenzprodukte außer Software
 - Musik
 - Filme
 - Bilder
 - Patente
 - Markenprodukte
 
-## 4) Lizenzarten
+## 3) Lizenzarten
 - **Proprietäre Software** (Nicht-Open-Source)
   - *Dauerlizenz*: Unbefristet
   - *Abo-Lizenz*: Zeitlich begrenzt
@@ -24,7 +24,7 @@
     - Quelloffen und kostenlos
     - Abwandlungen nur unter GNU-Lizenz veröffentlichbar
 
-## 5) Open Source Software
+## 4) Open Source Software
 - Allgemein zugänglich
 - Quellcode einsehbar
 - Modifizier- und veröffentlichbar
@@ -37,7 +37,7 @@
   - Blender
   - PostgreSQL
 
-## 6) Copyright vs. Copyleft
+## 5) Copyright vs. Copyleft
 | Copyright | Copyleft |
 | --------- | -------- |
 | Kopier-/Verkaufsverbot | Freie Nutzung/Veränderung/Veröffentlichung |
